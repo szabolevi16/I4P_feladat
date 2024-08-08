@@ -1,0 +1,7 @@
+C:\Sajat_fajlok\programok\I4P_feladat\I4P_feladat_project\I4P_feladat_project\bin\Debug\I4P_feladat_project.exe.config
+C:\Sajat_fajlok\programok\I4P_feladat\I4P_feladat_project\I4P_feladat_project\bin\Debug\I4P_feladat_project.exe
+C:\Sajat_fajlok\programok\I4P_feladat\I4P_feladat_project\I4P_feladat_project\bin\Debug\I4P_feladat_project.pdb
+C:\Sajat_fajlok\programok\I4P_feladat\I4P_feladat_project\I4P_feladat_project\obj\Debug\I4P_feladat_project.csproj.AssemblyReference.cache
+C:\Sajat_fajlok\programok\I4P_feladat\I4P_feladat_project\I4P_feladat_project\obj\Debug\I4P_feladat_project.csproj.CoreCompileInputs.cache
+C:\Sajat_fajlok\programok\I4P_feladat\I4P_feladat_project\I4P_feladat_project\obj\Debug\I4P_feladat_project.exe
+C:\Sajat_fajlok\programok\I4P_feladat\I4P_feladat_project\I4P_feladat_project\obj\Debug\I4P_feladat_project.pdb
