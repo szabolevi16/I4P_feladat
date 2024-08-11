@@ -1,10 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Sajat_fajlok\\programok\\I4P_feladat\\I4P_feladat_project\\",
+  "WorkspaceRootPath": "C:\\Sajat\\prog\\I4P_feladat\\I4P_feladat_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A62CFE2-57CC-495A-8872-99DE56248A8C}|I4P_feladat_project\\I4P_feladat_project.csproj|c:\\sajat_fajlok\\programok\\i4p_feladat\\i4p_feladat_project\\i4p_feladat_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|I4P_feladat_project||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62CFE2-57CC-495A-8872-99DE56248A8C}|I4P_feladat_project\\I4P_feladat_project.csproj|c:\\sajat\\prog\\i4p_feladat\\i4p_feladat_project\\i4p_feladat_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A62CFE2-57CC-495A-8872-99DE56248A8C}|I4P_feladat_project\\I4P_feladat_project.csproj|solutionrelative:i4p_feladat_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62CFE2-57CC-495A-8872-99DE56248A8C}|I4P_feladat_project\\I4P_feladat_project.csproj|c:\\sajat\\prog\\i4p_feladat\\i4p_feladat_project\\i4p_feladat_project\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +25,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "I4P_feladat_project",
+              "DocumentMoniker": "C:\\Sajat\\prog\\I4P_feladat\\I4P_feladat_project\\I4P_feladat_project\\I4P_feladat_project.csproj",
+              "RelativeDocumentMoniker": "I4P_feladat_project\\I4P_feladat_project.csproj",
+              "ToolTip": "C:\\Sajat\\prog\\I4P_feladat\\I4P_feladat_project\\I4P_feladat_project\\I4P_feladat_project.csproj*",
+              "RelativeToolTip": "I4P_feladat_project\\I4P_feladat_project.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-11T14:10:42.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Sajat_fajlok\\programok\\I4P_feladat\\I4P_feladat_project\\I4P_feladat_project\\Program.cs",
+              "DocumentMoniker": "C:\\Sajat\\prog\\I4P_feladat\\I4P_feladat_project\\I4P_feladat_project\\Program.cs",
               "RelativeDocumentMoniker": "I4P_feladat_project\\Program.cs",
-              "ToolTip": "C:\\Sajat_fajlok\\programok\\I4P_feladat\\I4P_feladat_project\\I4P_feladat_project\\Program.cs",
+              "ToolTip": "C:\\Sajat\\prog\\I4P_feladat\\I4P_feladat_project\\I4P_feladat_project\\Program.cs",
               "RelativeToolTip": "I4P_feladat_project\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAwCwAAABJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T12:38:56.256Z",
               "EditorCaption": ""
