@@ -40,8 +40,6 @@ namespace I4P_feladat_project
             if (s2.Length > s1.Length) titkulcs = kulcsgenerator(s2.Length);
             else titkulcs = kulcsgenerator(s1.Length);
 
-            Console.WriteLine($"A használt kulcs: {titkulcs}");
-
             string rejtuz1 = rejtjelezes(s1, titkulcs);
             string rejtuz2 = rejtjelezes(s2, titkulcs);
 
