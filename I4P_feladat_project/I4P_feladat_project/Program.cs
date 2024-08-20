@@ -10,7 +10,6 @@ namespace I4P_feladat_project
     internal class Program
     {
         public static List<string> l = new List<string>();
-        public static int leghosszabbszo = 0;
         static void Main(string[] args)
         {
             string titkulcs;
